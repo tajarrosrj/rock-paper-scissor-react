@@ -1,16 +1,26 @@
-# React + Vite
+✊✋✌️ Rock Paper Scissors (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📌 Description  
+A Rock–Paper–Scissors game built with React using functional components and hooks.  
+This project is a React refactor of my Vanilla JavaScript version, focusing on component-based architecture, state management, and modern tooling.
 
-Currently, two official plugins are available:
+Players compete against the computer, with real-time score tracking and dynamic UI updates.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠 Tech Stack  
+- React  
+- Vite  
+- Tailwind CSS  
+- JavaScript (ES6+)
 
-## React Compiler
+🚀 Features  
+- Player vs Computer gameplay  
+- Real-time score tracking  
+- Dynamic result display  
+- Responsive UI  
+- Clean and modern design using Tailwind CSS  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🚀 How to Run Locally  
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+```bash
+git clone https://github.com/tajarrosr/rock-paper-scissors-react.git
