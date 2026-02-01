@@ -1,4 +1,4 @@
-# Rock Paper Scissors (React)
+# Rock Paper Scissors (React) mgg
 
 ## Description
 A Rock–Paper–Scissors game built with React using functional components and hooks.  
